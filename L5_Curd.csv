@@ -1,0 +1,113 @@
+lat;long;depth_m;times;name;country;ref
+43.09328;5.92539;2;2022;Toulon_grande_digue;France;Javel et al., in prep
+43.74442;7.43292;2;2022;Monaco_Larvotto;France;Javel et al., in prep
+42.49932;3.13788;19;2022;Banyuls_Oulestrell;France;Conté, 2022
+42.47934;3.15767;23;2022;Banyuls_Abeille;France;Conté, 2022
+43.56694;10.30806;13;2019;Livorno_commercial;Italy;Tempesti et al., 2022
+43.54917;10.30139;8;2019;Livorno_touristic;Italy;Tempesti et al., 2022
+43.54722;10.29944;5;2019;Antignano;Italy;Tempesti et al., 2022
+43.67806;10.27194;5;2019;Marina_di_Pisa;Italy;Tempesti et al., 2022
+42.71028;9.46056;12;2019;Bastia_commercial;France;Tempesti et al., 2022
+42.69528;9.45028;6;2019;Bastia_touristic;France;Tempesti et al., 2022
+42.70833;9.45472;5;2019;Toga;France;Tempesti et al., 2022
+42.95972;9.45389;5;2019;Macinaggio;France;Tempesti et al., 2022
+40.92583;9.53444;16;2019;Olbia_commercial;Italy;Tempesti et al., 2022
+40.9225;9.50944;6;2019;Olbia_touristic;Italy;Tempesti et al., 2022
+40.90778;9.58111;5;2019;Golfo_Aranci;Italy;Tempesti et al., 2022
+41.02917;9.54444;6;2019;Porto_Rotondo;Italy;Tempesti et al., 2022
+38.339;0.4799;;2016;Alicante_marina;Spain;Ulman et al., 2017
+41.376;2.187;;2016;Port_Vell;Spain;Ulman et al., 2017
+43.281;3.501;;2015;Port_Agde;France;Ulman et al., 2017
+43.557;4.082;;2016;Port_Grande_Motte;France;Ulman et al., 2017
+43.515;4.132;;2015;Port_Camargue_Marina;France;Ulman et al., 2017
+43.278;6.637;;2016;Saint_Tropez;France;Ulman et al., 2017
+43.065;6.586;;2016;Cogolin;France;Ulman et al., 2017
+43.307;6.638;;2016;Sainte_Maxime;France;Ulman et al., 2017
+43.54;7.032;;2015;Cannes_vieux_port;France;Ulman et al., 2017
+43.585;7.127;;2015;Port_Vauban;France;Ulman et al., 2017
+43.698;7.307;;2016;Villefranche_sur_mer;France;Ulman et al., 2017
+41.737;12.25;;2015;Porto_Turistico_Roma;Italy;Ulman et al., 2017
+40.748;13.906;;2015;Casamicciola_marina;Italy;Ulman et al., 2017
+40.695;13.893;;2015;SantAngelo_marina;Italy;Ulman et al., 2017
+40.743;13.939;;2015;Porto_Ischia;Italy;Ulman et al., 2017
+40.629;14.375;;2015;Sorrento_piccola_marina;Italy;Ulman et al., 2017
+38.142;13.37;;2016;Villa_Igea_marina;Italy;Ulman et al., 2017
+38.12;13.368;;2016;Porto_La_Cala;Italy;Ulman et al., 2017
+37.732;15.208;;2016;Porto_dell_Etna;Italy;Ulman et al., 2017
+37.063;15.284;;2016;Siracusa_Porto_Grande;Italy;Ulman et al., 2017
+36.733;15.119;;2016;Marzamemi_marina;Italy;Ulman et al., 2017
+36.781;14.546;;2016;Ragusa_marina;Italy;Ulman et al., 2017
+37.097;13.943;;2016;Licata_Cala_Sole_marina;Italy;Ulman et al., 2017
+35.896;14.493;;2016;Msida_marina;Malta;Ulman et al., 2017
+35.89;14.523;;2016;Valletta_grand_harbor_marina;Malta;Ulman et al., 2017
+35.543;25.136;;2015;Heraklion_venetian_harbor;Greece;Ulman et al., 2017
+35.187;25.136;;2015;Agios_Nikolaos_marina;Greece;Ulman et al., 2017
+36.449;28.226;;2016;Mandraki_port;Greece;Ulman et al., 2017
+40.976;29.039;;2015;Setur_Kalamas_Marina;Turkey;Ulman et al., 2017
+37.034;27.425;;2015;Milta_Bodrum_marina;Turkey;Ulman et al., 2017
+26.722;27.689;;2015;Datca_marina;Turkey;Ulman et al., 2017
+36.852;28.276;;2015;Setur_Marmais_Netsel_Marina;Turkey;Ulman et al., 2017
+36.623;29.101;;2015;Fethiye_Ece_marina;Turkey;Ulman et al., 2017
+36.254;30.149;;2015;Setur_Finike_marina;Turkey;Ulman et al., 2017
+35.558;34.232;;2016;Karpaz_Gate_Marina;Cyprus;Ulman et al., 2017
+35.123;33.952;;2016;Famagusta_port;Cyprus;Ulman et al., 2017
+43.688998;7.287383;;2024;Nice - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.689276;7.288389;;2024;Nice - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.689851;7.288389;;2024;Nice - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.697678;7.28573;;2024;Nice - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.697184;7.285623;;2024;Nice - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.69692;7.284335;;2024;Nice - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.273736;6.632512;;2024;St Tropez - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.273415;6.632007;;2024;St Tropez - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.272931;6.631753;;2024;St Tropez - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.273222;6.637085;;2024;St-Tropez - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.273447;6.637904;;2024;St-Tropez - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.273069;6.638602;;2024;St-Tropez - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.090005;5.928405;;2024;La Seyne/Mer -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.092383;5.928977;;2024;La Seyne/Mer -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.091433;5.929413;;2024;La Seyne/Mer -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.395962;3.697785;;2024;La Seyne/Mer - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.396167;3.699407;;2024;La Seyne/Mer - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.396438;3.700916;;2024;La Seyne/Mer - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.011377;3.068743;;2024;Port-La-Nouvelle - ourside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.011702;3.06818;;2024;Port-La-Nouvelle - ourside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.011543;3.069177;;2024;Port-La-Nouvelle - ourside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.022988;3.044061;;2024;Port-La Nouvelle - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.023289;3.043159;;2024;Port-La Nouvelle - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.023684;3.041814;;2024;Port-La Nouvelle - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.400426;3.732142;;2020;Sète SL - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.400205;3.731318;;2020;Sète SL - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.399854;3.729945;;2020;Sète SL - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.401487;3.700148;4;2020;Sète SL - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.401487;3.700148;4;2020;Sète SL - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+43.401487;3.700148;4;2020;Sète SL - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.566164;8.763922;;2024;Calci - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.565977;8.763817;;2024;Calci - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.565833;8.763483;;2024;Calci - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.563651;8.756427;;2024;Calvi - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.563906;8.756903;;2024;Calvi - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.564619;8.757279;;2024;Calvi - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.917053;8.7461;;2024;Ajaccio -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.917128;8.746989;;2024;Ajaccio -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.917094;8.747428;;2024;Ajaccio -outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.918977;8.742947;;2024;Ajaccio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.918522;8.742079;;2024;Ajaccio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.918479;8.740599;;2024;Ajaccio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.385761;9.145914;;2024;Bonifacio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.385867;9.146133;;2024;Bonifacio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.385819;9.146376;;2024;Bonifacio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.388401;9.162104;;2024;Bonifacio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.388268;9.163273;;2024;Bonifacio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.388308;9.16437;;2024;Bonifacio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.596973;9.296548;;2024;Porto-Vechio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.597266;9.296627;;2024;Porto-Vechio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.597162;9.296811;;2024;Porto-Vechio - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.589213;9.284053;;2024;Porto Vechio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.590344;9.283687;;2024;Porto Vechio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+41.590031;9.284589;;2024;Porto Vechio - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.711697;9.45684;;2024;Bastia - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.711868;9.45692;;2024;Bastia - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.711836;9.45695;;2024;Bastia - outside;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.707082;9.454607;;2024;Bastia - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.707762;9.454388;;2024;Bastia - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
+42.708989;9.455066;;2024;Bastia - port;France;MarEEE Project _ SUCHIMED (F Viard / S Arnaud-Haond / M Bouchoucha)
